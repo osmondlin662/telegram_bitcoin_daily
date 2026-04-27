@@ -2,7 +2,8 @@ name: Bitcoin Daily
 
 on:
   schedule:
-    - cron: "30 2 * * *"
+    - cron: "0 0,4,8,12,16,20 * * *"
+      timezone: "Asia/Taipei"
   workflow_dispatch:
 
 jobs:
