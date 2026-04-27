@@ -1,2 +1,0 @@
-# telegram_bitcoin_daily
-telegram_bitcoin_daily
